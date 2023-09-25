@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://arnoid:arnoid@contacts.x85tc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "IHAc?mmsEFQ4t9yxOSBy5C1taT&2DAxVN2CzJRs9"
+}
